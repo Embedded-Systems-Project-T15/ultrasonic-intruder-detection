@@ -1,0 +1,11 @@
+*.o
+*.d
+*.lst
+*.map
+*.axf
+*.lnp
+*.dep
+*.bak
+*.pdsbak
+*.htm
+*.workspace
